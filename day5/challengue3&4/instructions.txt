@@ -1,0 +1,20 @@
+Se define un vector como un array de números.
+Crea un fichero llamado libreriaVector.js con las siguientes funciones:
+
+1. crearVector(n, m):number[]. Crea y devuelve un vector de n números aleatorios que van
+desde 0 hasta m.
+
+2. sumaVector(v1, v2):number[]. Suma dos vectores v1 y v2 si y solo si tienen el mismo
+numero de elementos y devuelve el vector resultado de dicha suma.
+
+3. productoNumeroVector(n, v): number[]. Multiplica el vector v por el numero y devuelve el
+vector resultado de dicho producto.
+
+4. restaVector(v1, v2): number[]. Resta dos vectores v1 y v2 si y solo si tienen el mismo
+numero de elementos y devuelve el vector resultado de dicha resta.
+
+5. productoVector(v1, v2): Multiplica dos vectores v1 y v2 si y solo si tienen el mismo número
+de elementos y devuelve el vector resultado de dicho producto.
+
+Crea un nuevo fichero que llame a las funciones definidas en el fichero libreríaVector.js y
+prueba todas sus funciones.
